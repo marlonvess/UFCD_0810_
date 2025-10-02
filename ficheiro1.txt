@@ -1,9 +1,1 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis non urna id elit imperdiet placerat. 
-Nunc tincidunt diam erat, laoreet posuere turpis tempor id. Nunc eget nibh neque. Maecenas vitae 
-enim ornare, gravida felis vitae, consequat purus. Sed eleifend orci ac blandit hendrerit. Donec 
-finibus ipsum non purus imperdiet malesuada eget a ligula. Sed sed dui dapibus, mattis arcu et,
-malesuada lorem. Etiam et porttitor erat. Curabitur eu turpis nibh. Class aptent taciti sociosqu
-ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi nec tellus massa. Fusce at 
-ipsum quis tortor rhoncus vestibulum eget sit amet ex. Maecenas tincidunt fermentum ante eu pellentesque.
-
-Duis lorem odio, posuere a congue lacinia, venenatis ut mauris. Etiam tempus tortor mi, in hendrerit dui auctor id. Donec diam mi, luctus non diam sit amet, gravida volutpat nisi. Etiam ut sapien egestas, auctor magna ac, tempor ex. Nulla consectetur tellus odio, a fringilla risus hendrerit eu. Duis rhoncus finibus risus sit amet ultricies. Nullam rhoncus mi ut sem vulputate, eu lobortis nunc aliquam.
+isto é o conteúdo do ficheiro 1
